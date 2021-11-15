@@ -21,6 +21,6 @@ app.debug("now it works")
 import random
 
 # use a method from the random module
-randomNumber = random.randint(1,10)
+randomNumber = random.randint(1,10000000000000000000000)
 app.print(randomNumber)
 
